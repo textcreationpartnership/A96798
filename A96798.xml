@@ -1,0 +1,177 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A witty ansvver, and vindication to a foolish pamphlet, intituled New orders nevv, agreed upon by a parliament of Round-heads. Or, Old orders old, newly vampt by a Parliament of rattle-heads. Confirmed by the brethren of the malignant party now assembled at Rattle heads Court, a way-bit from Yorke. With the ignorant rashnes of Mr Short-breath, a damnfied companion, Mr Speaker of the House. Avowed by Nicholas Periwig, alias no eares, Cler. Parl. Ratle.</title>
+            <author>Periwig, Nicholas.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96798</idno>
+            <idno type="STC">Wing W3235</idno>
+            <idno type="STC">Thomason E151_22</idno>
+            <idno type="STC">ESTC R15034</idno>
+            <idno type="EEBO-CITATION">99859788</idno>
+            <idno type="PROQUEST">99859788</idno>
+            <idno type="VID">111886</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96798)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 111886)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E151[22])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A witty ansvver, and vindication to a foolish pamphlet, intituled New orders nevv, agreed upon by a parliament of Round-heads. Or, Old orders old, newly vampt by a Parliament of rattle-heads. Confirmed by the brethren of the malignant party now assembled at Rattle heads Court, a way-bit from Yorke. With the ignorant rashnes of Mr Short-breath, a damnfied companion, Mr Speaker of the House. Avowed by Nicholas Periwig, alias no eares, Cler. Parl. Ratle.</title>
+                  <author>Periwig, Nicholas.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Nat. Morton,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>A satire.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Dulman, Ananias. --  New orders new, agreed upon by a Parliament of round heads.</term>
+               <term>Roundheads --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-10</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-10</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-03</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:111886:1" rendition="simple:additions"/>
+            <p>A witty ANSVVER, And VINDICATION To a fooliſh Pamphlet, intituled New Orders Nevv, Agreed upon by a PARLIAMENT of Round-heads. Or, <hi>Old Orders Old,</hi> newly vampt By a Parliament of <hi>Rattle-heads.</hi>
+            </p>
+            <p>Confirmed by the Brethren of the malignant Party Now aſſembled at <hi>Rattle heads</hi> Court, a way-bit from YORKE.</p>
+            <p>
+               <hi>With the ignorant raſhnes of Mr</hi> Short-breath, <hi>a dam<g ref="char:EOLhyphen"/>nified Companion, Mr</hi> Speaker <hi>of the Houſe.</hi>
+            </p>
+            <p>Avowed by <hi>Nicholas Periwig,</hi> alias <hi>No eares, Cler. Parl. Ratle.</hi>
+            </p>
+            <p>LONDON, <hi>Printed for</hi> Nat: Morton.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:111886:2"/>
+            <pb facs="tcp:111886:2"/>
+            <head>A witty Anſwer, and Vindication to a fooliſh Pamphlet, intituled New Orders, New, agreed upon by a Parliament of <hi>Round-heads.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">A</seg>Lthough our zeale, ſincerity, and pious devotion to the publicke Good, and univerſall Accom<g ref="char:EOLhyphen"/>modation of this Kingdome, eſpecially the ſe<g ref="char:EOLhyphen"/>curity of the City of London, affords us little leaſure to ſpend our times ſo vainly in anſwe<g ref="char:EOLhyphen"/>ring a ſcandalous Pamphlet, intituled, <hi>New Or<g ref="char:EOLhyphen"/>ders agreed upon by a Parliament of Round-heads,</hi> yet the malignant party (whom we juſtly conceive compoſed it) taking all occaſi<g ref="char:EOLhyphen"/>ons to multiply calumnies upon our zealous integrity, we cannot be ſo much wanting to our innocency, as not to cleare our ſelves from thoſe falſe aſperſions.</p>
+            <p>If the inconſiderate Penner of this Libell had diſcreetly conſi<g ref="char:EOLhyphen"/>dered with himſelfe, <hi>That if in the ſpacious Theater of the Vni<g ref="char:EOLhyphen"/>verſe the ſingular conditions of ſingular perſons are articulated in ſome expreſſe place,</hi> his Pamphlet might have worthily became a Tragedy, wherein he may plainly ſee his owne ignorance acted. Wherefore the <hi>Rattle-heads</hi> (to whoſe Periwigs their French-infected haire and eares infinitely ſtands engaged) have accor<g ref="char:EOLhyphen"/>ding to their owne giddy imaginations aſſembled at a convenient place, named <hi>Rattle heads</hi> Court, a way-bit from Yorke, con<g ref="char:EOLhyphen"/>duceable to their reſolutions. Hither doth the Councell of the malignant party gang uſually, and doe ſtile themſelves the Reſo<g ref="char:EOLhyphen"/>lute Senate of the Times.</p>
+            <p>As for the appellation of fooles, which they reflect upon us, it
+<pb facs="tcp:111886:3"/>is a word ſo obvious and frequent amongſt them, that we will not wrong them ſo much as to deprive them of their owne Titles, which are the chiefeſt they have in their Court.</p>
+            <p>The end, for which they doe gang to this Court is this, Their ungodly and irreligious Actions being contradicted, and con<g ref="char:EOLhyphen"/>demned by the true Proteſtants, whom they call Puritans; they have now thought it expedient to call a Councell of their owne tribe to maintaine thoſe wicked actions. They ſate in forme of a Parliament (may there no exceptions be taken at the word, nor any derogative from the reverent and honourable name of our happy bleſſed Parliament, but onely a reflection to their word) where Mr. <hi>Short-breath</hi> was Speaker in the houſe, whoſe lungs being as weake as his braine, did prate with as much judgement to his Court, as a Billingſ-gate Oiſterwife doth ſometime to her Welch Auditory, with as much confidence as if all the caſtles in the aire were built in his brain, with as much celerity of ſpeech, as if he were reſolved that his temerarious-intended words ſhould be performed at the Greeke Calends: and laſtly, with as much rancitude and loudneſſe of voice, as if he had ejaculated, and blowne his words forth with a Sow-gelders horne. The Clerke of the houſe was <hi>Periwig alias No-eares,</hi> for what abounded in his ſpecious haire, and obſtreperous words, was wanting in his eares, and knowledge. Thus being conveened in <hi>Rattle-heads</hi> Court in this manner all in order (for they ſay every order is a re<g ref="char:EOLhyphen"/>gular Law, and where no order is, there is incivility, <hi>Ergo</hi> it is as much Law for them to be rul'd by order, as it is order for the Law to be rul'd by them) they began to declare their ſeverall o<g ref="char:EOLhyphen"/>pinions, each man ſtrangely contending to ſee whether his raſh<g ref="char:EOLhyphen"/>neſſe or folly did exceed.</p>
+            <div type="part">
+               <pb facs="tcp:111886:3"/>
+               <head>Orders made by the Parliament of <hi>Rattle-heads,</hi> aſſembled at <hi>Rattle-heads</hi> Court a way-bit from <hi>YORKE.</hi>
+               </head>
+               <p>SInce the malignant party aſſembled at <hi>Rattle-heads</hi> Court, have apparently underſtood the hopefull reformation of the Church, the truthe of the people, and the ſincerity of ſome pi<g ref="char:EOLhyphen"/>ouſly affected, and that they being ſenſible of the unfained devo<g ref="char:EOLhyphen"/>tion of ſome Proteſtants (whom they call Puritans) and what promiſing piety that devotion may produce, if not by them pre<g ref="char:EOLhyphen"/>vented: Its therefore ordered by the <hi>Rattle-heads,</hi>
+               </p>
+               <p n="1">1. Since a Supremacy, higher and ſuperiour Powers be the Ordinances of God, and that there needeth no parity, or equality of perſons, be it therefore ordered that we be all Kings.</p>
+               <p n="2">2. That we have all Biſhops becauſe they will advance Popiſh ſuperſtition, and that we ordaine the Star-chamber and High-commiſſion Court for them, where they may tyranize once more.</p>
+               <p n="3">3. That we have Churches, though we never go to them, and thoſe Popiſhly adored too, that the world may think we are very holy, though (God knows) we hate it above al things in the world.</p>
+               <p n="4">4. That we have Bells, Organs and Babiloniſh Timpans, that we may laugh, ſport, talke, and be merry in the Church upon any occaſion, while they delude the ears of others.</p>
+               <p n="5">5. That we have Croſſes, for they ſeem not onely Popiſh, but likewiſe are not commanded by Scripture, and they are pret<g ref="char:EOLhyphen"/>ty guegawes to behold, and therefore we acknowledge them worthy to be in the Church, that wee may adore and worſhip them too, contrary to all Chriſtianity; eſpecially let the glorious light Cheap-ſide Croſſe (the guilded ſhadow of the City of London) be a happines unto you all, that when you have nothing to doe, you may deceive idleneſſe in gazing upon that with reve<g ref="char:EOLhyphen"/>rence: And for the more frequent honor of the Word, let Croſſe be interpoſed in the name of every ſtreet, as Fleet Croſſe ſtreet &amp;c. Thus Croſſe being ſo obvious, and every holy word roo<g ref="char:EOLhyphen"/>ted out and extirpated from our mouthes, nothing but what may
+<pb facs="tcp:111886:4"/>reliſh of Arminaniſme, and Popery may remaine in our convo<g ref="char:EOLhyphen"/>cations.</p>
+               <p n="7">7. That we may aſſume no other names to our ſelves but <hi>Rattle-heads,</hi> and that we may appeare to be ſo by the manner of our Periwigs, the length of our curled or criſped haire, by the pearle or ribbins at the eares, which diſtinguiſheth thoſe that have eares amongſt us, or thoſe that have none, by the carbuncles of the face, and the redneſſe of the Taverne-coloured noſe, by the pretious vertue whereof we doe not onely ſmell out the levity of ſome Citizens wives, but are alſo feared and honoured as old beaten ſouldiers of <hi>Bacchus,</hi> as Captaines or Ancient-bearers at leaſt, becauſe we alwaies carry the colour in our noſes, by the nicety and curoſity of the habit, the length of the cloake, the fa<g ref="char:EOLhyphen"/>ſhion of the dublet, the compleat ſhortneſſe of the breaches, the correſpondency of the points, the faſhion of the Oiſter-moulded bootes, the gingling of the Coach-wheel roweld ſpurs, by the French troubled ſtradling of the legges, as far aſunder as Lawy<g ref="char:EOLhyphen"/>ers lines, by the ſwift fanning of the ayre with the laſcivious hand, by the wagging and often ſhaking of the head, like a Barbary Hackney, by the mightines of our credits, which is able to undoe a hundred Citizens in a yeere, by the tranſparancy of our charity, which is ſo inviſible, that neither the right hand nor the left did ever know it, by the multitude of our good works, which no man living did ever know, or can ever number<g ref="char:punc">▪</g> and laſtly by the mi<g ref="char:EOLhyphen"/>ſer-like penury of our good wordes, and the prodigality of our Oathes. Thus being knowne to be Rattle-heades by theſe mani<g ref="char:EOLhyphen"/>fold ſignes and tokens, that this Rattle-heads Court be our gene<g ref="char:EOLhyphen"/>rall meeting place.</p>
+               <p n="8">8. That we have all pictures of Saints, Cherubims, &amp;c. be<g ref="char:EOLhyphen"/>cauſe they are pretty bables to feede our delighted eyes, and fan<g ref="char:EOLhyphen"/>cies, and to keepe off our mindes from hearing the word preacht.</p>
+               <p n="9">9. That any Rattle-head (being the world's, beloved) may, and ſhall have authority by Us, the Parliament of Rattle-head, to fight, ſweare, damn<gap reason="illegible" resp="#UOM" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, lye, ſlaſh, and kill in any place: whether it
+<pb facs="tcp:111886:4"/>be in Saint <hi>George's</hi> Fields, at Weſtminſter with drawne ſwords, at Grocers Hall in a warlike manner, at Kingſtone upon Thames, at Yorke with naked ſwords, crying in the ſtreets, who's for the King? or marching towards Hull in an Hoſtile manner, or laſtly whether it be in taking a purſe in the Kings high way, which we muſt confeſſe we doe exerciſe ſometimes for recreation's ſake, telling the parties ſo pillaged, that the Parliament have ordered, that all money ſhould be diſpoſed to pious uſes, and that the King wants money; therefore it is neceſſary that their monies ſhould be diſpoſed to the Kings pious uſes, &amp;c. or in reading the Cupidi<g ref="char:EOLhyphen"/>nean Lecture to a Yorkſhire maid under a hedge, or laſtly whe<g ref="char:EOLhyphen"/>ther it be a Welch eſcape from the Taverne, the reckoning being unpaid<g ref="char:punc">▪</g> provided onely, that it be not in an Ale-houſe, for that tends to the advancement of ſmall-beere-proſe, and the intro<g ref="char:EOLhyphen"/>ducement of Hereſie, therefore the eſcape is more commendable from a Taverne, being the mother of Popery, &amp;c.</p>
+               <p n="10">10. That in our prayers we need not pray for ſalvation, or the forgiveneſſe of ſinnes, but onely for the King, Queene, Prince, State, and eſpecially for Biſhops, Univerſities: without the helpe of the ſpirit, onely the Lords praier, and any other forme of praier, being uſed, though we underſtand not one word thereof.</p>
+               <p n="11">11. That damnation bee never preacht to Rattle-heads, be<g ref="char:EOLhyphen"/>cauſe it is vanity to tell men of that, which they know already.</p>
+               <p n="12">12. That inſtead of Matrimony, if any Cavalier taketh affection to any Citizens wife, he may exerciſe his talent as the ſpirit ſhall enable him without any further circumſtance.</p>
+               <p n="13">13. That in the buriall of the dead, prayer is as needfull, as requiſite, therefore it ought to be uſed, as well as auricular con<g ref="char:EOLhyphen"/>feſſion.</p>
+               <p n="14">14. That our Children (I meane our illegitimate ones) bee baptized at eight daies old at the fartheſt, and their Godfathers and Godmothers ſhall (like ſome vapouring Courtiers) make large and ample promiſes of their regeneration, though they per<g ref="char:EOLhyphen"/>forme nothing.</p>
+               <pb facs="tcp:111886:5"/>
+               <p n="15">15. That the booke of Common prayer bee in reverent eſti<g ref="char:EOLhyphen"/>mation amongſt us, and that we be fill'd ſo full with the fat of that porrage, that we ſhall need neither preaching, teaching, or any o<g ref="char:EOLhyphen"/>ther inſtructions whatſoever, but only that.</p>
+               <p n="16">16. That all things be common amongſt us, whether it bee a purſe by the high way, a Citizens wife, or an eſcape from the Taverne, which is common.</p>
+               <p n="17">17. That we receive the Sacrament kneeling to the Crucifix.</p>
+               <p n="18">18. That none ſhall weare ſhort hare, for as ſoldiers are knowne by their colours, ſo we are knowne to bee Rattle-heads, by our long haire.</p>
+               <p n="19">19. That our diet be very ſumptuous, and coſtly: and if our monies be deficient, and our purſes cannot reach to ſuch delici<g ref="char:EOLhyphen"/>ous curioſities, that it may be lawfull to run on the Cooks ſcore, till the debt grows Old, and at length till we conjoine them both, and become a Cook-old.</p>
+               <p n="20">20. That all learning, Order, Diſcipline, and the Univerſities be in venerable reputation amongſt us, although we doe neither follow, or be inſtructed by either.</p>
+               <p n="21">21. That every yeare there ſhall bee the Rattle-heads Army here celebrated, and if no Antagoniſt be found to march againſt us, then we will encounter with <hi>Venus,</hi> or at leaſt with ſome of her Meritrician ſect: howſoever we will have an Arminian to bee our Captaine, agreeable to our diſpoſitions, and wee are all <hi>in an Army,</hi> for the Anagram of Arminian is <hi>In an Armi.</hi>
+               </p>
+               <p n="22">22. That who ſoever ſhall not agree, and condiſcend to the due obſervation of each particular Order by us here eſtabliſht, ſhall be held as Puritans, enemies to the Sate of the Rattle-heads, and worthy to be renounced, ſuſpended, or excommunicated, and never to be readmitted into the ſociety of the malignant party, or God-dammefied Companions.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
